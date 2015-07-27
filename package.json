@@ -1,0 +1,23 @@
+{
+  "name": "highlightjs-cirru",
+  "version": "0.0.1",
+  "description": "Cirru Syntax for Highlight.js",
+  "main": "cirru.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cirru",
+    "highlight"
+  ],
+  "author": "jiyinyiyong",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cirru/highlightjs-cirru.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cirru/highlightjs-cirru/issues"
+  },
+  "homepage": "https://github.com/Cirru/highlightjs-cirru#readme"
+}
